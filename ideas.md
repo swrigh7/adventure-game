@@ -1,5 +1,6 @@
-### General thoughts (stephen's_
+### General thoughts (stephen's)
 * I think it would be cool to make this sort of like and RPG with a big main quest and some side quests but that might take a lot moer work so I guess lets start out with something small
 * I think in the spirit of the RPG stuff it might be cool to have a command that tells you the time of day, weather, your location, and your current status or something like this. I don't think it would be too difficult to add and would be pretty simple in a simple iteration
 * we should probably start coming up with a simple story line at first so we can start planning around that. If we don't have a story I wouldn't really know where to start
 * Once again going back to the RPG aspect, I think it would be cool to do make every important character an object that has statistics so we for combat and then we can do roll based attacking and damage and stuff. I know this might be more complex than like an old school zork but I think it would be cool to implement and I like the statistical side of things so as long as there are rust libraries for it it should be easy. I also know how to generate samples from distributions using straight up pseudorandom number generation if need be
+* for the backbone of the combat mechanics, I'll shamelessly plug that Luke and I have been working on a ttrp g system for a while and I think I could pretty easily get that system translated into rust objects and methods.
